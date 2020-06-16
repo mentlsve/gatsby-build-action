@@ -1,0 +1,6 @@
+# action.yml
+name: 'Gatsby build'
+description: 'Crate a Gatsby prdocution build'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
